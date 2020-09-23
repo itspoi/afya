@@ -1,8 +1,9 @@
-import 'package:aunty_rafiki/views/pages/screens/appointment_screen.dart';
-import 'package:aunty_rafiki/views/pages/screens/baby_bump_screen.dart';
-import 'package:aunty_rafiki/views/pages/screens/profile_screen.dart';
-import 'package:aunty_rafiki/views/pages/screens/tracker_screen.dart';
-import 'package:aunty_rafiki/views/pages/screens/chat_screen.dart';
+
+import 'package:aunty_rafiki/views/screens/appointment_screen.dart';
+import 'package:aunty_rafiki/views/screens/baby_bump_screen.dart';
+import 'package:aunty_rafiki/views/screens/chat_screen.dart';
+import 'package:aunty_rafiki/views/screens/profile_screen.dart';
+import 'package:aunty_rafiki/views/screens/tracker_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

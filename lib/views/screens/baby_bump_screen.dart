@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class TrackerScreen extends StatelessWidget {
+class BabyBumpScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-        child: Container(
-      child: Text('Tracker Screen'),
+        child: ListView(
+      children:[ Text('Baby Bump Screen'),]
     ));
   }
 }
